@@ -4,3 +4,5 @@ Sideview displays if your screen is large enough, and updates every time you sav
 
 If you want to exclude a section from Sideview, specify it at the beginning of the Javascript block (around line 60): @const sectionExcluded = 'yoursectionname'@.
 
+Thanks to *jakob* who did the heavy lifting in converting my code to a plugin.
+
